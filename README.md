@@ -1,15 +1,25 @@
 # 🚀 AI Agents Academy & Real-Time Technical Interview Platform
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![Tests](https://img.shields.io/badge/tests-8%2F8%20passing-success.svg)]()
-[![React 19](https://img.shields.io/badge/react-v19.2-blue.svg)](https://react.dev/)
-[![TanStack Start](https://img.shields.io/badge/framework-TanStack%20Start-orange.svg)](https://tanstack.com/start)
-[![Gemini API](https://img.shields.io/badge/AI-Google%20Gemini%203.8-blueviolet.svg)](https://ai.google.dev/)
-[![Tailwind CSS v4](https://img.shields.io/badge/styling-Tailwind%20CSS%20v4-38bdf8.svg)](https://tailwindcss.com/)
+[![Frontend (Vercel)](https://img.shields.io/badge/Vercel-Frontend%20Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-agents-academy-tau.vercel.app)
+[![Backend (Render)](https://img.shields.io/badge/Render-Backend%20Live-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://ai-agents-academy-backend.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaji-0001/AI-Agents-Academy)
+[![React 19](https://img.shields.io/badge/React%2019-v19.2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TanStack Start](https://img.shields.io/badge/TanStack%20Start-Fullstack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/start)
+[![Gemini API](https://img.shields.io/badge/Google%20Gemini-3.8%20Live-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 A modern, production-grade **AI Engineering Learning & Interview Preparation Platform** designed for developers, ML engineers, and architects mastering **AI Agents, Multi-Agent Systems, LangGraph, Model Context Protocol (MCP), Advanced RAG, and LLM Infrastructure**.
 
 Featuring a **human-like, real-time bidirectional voice interview simulator** powered by Google Gemini, a **250+ senior interview question bank**, **10 production architecture project labs**, and an **interactive AI tutor**.
+
+---
+
+## 🌐 Live Deployments & Links
+
+| Component | Platform | Environment | Live URL |
+| :--- | :--- | :--- | :--- |
+| 🖥️ **Frontend App** | **Vercel** | Production Edge Serverless | [https://ai-agents-academy-tau.vercel.app](https://ai-agents-academy-tau.vercel.app) |
+| ⚙️ **Backend Service** | **Render** | Production Cloud Web Service | [https://ai-agents-academy-backend.onrender.com](https://ai-agents-academy-backend.onrender.com) |
+| 📦 **GitHub Repository** | **GitHub** | `main` branch | [https://github.com/balaji-0001/AI-Agents-Academy](https://github.com/balaji-0001/AI-Agents-Academy) |
 
 ---
 
